@@ -7,8 +7,8 @@
 **Module:** Mobile and Application Development  
 **Assessment Type:** Practicum  
 **Language/Framework:** Kotlin – Android Studio  
-**Repository:** [GitHub Link Here]()
-
+**Repository:** [[[GitHub Link Here](https://github.com/ST10476385/PlaylistManagerApp.git)]()
+](https://github.com/ST10476385/PlaylistManagerApp.git)
 ---
 
 ##  App Overview
@@ -36,6 +36,9 @@ The application uses **arrays**, **loops**, and **screen navigation**, and handl
 ![Detailed  view screen 2](https://github.com/user-attachments/assets/b79979b5-e652-454a-b77f-5a8cf1604989)
 
 ## Application Running in the emulator
+
+![final](https://github.com/user-attachments/assets/83547c69-2e9d-4717-b739-857db025a37c)
+
 
 ##  Features Implemented
 
